@@ -7,5 +7,5 @@ https://github.com/zcc16165/AIoT_HW5/blob/Part-2/README.md
 https://github.com/zcc16165/AIoT_HW5/blob/Part-3/README.md
 ## Part4
 https://github.com/zcc16165/AIoT_HW5/blob/Part-4/README.md
-## Part4
+## Part5
 https://github.com/zcc16165/AIoT_HW5/blob/Part-5/README.md
